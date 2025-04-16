@@ -1,4 +1,4 @@
-## Hi, I'm AdhavaNandhiyar 👋 
+# Hi, I'm @AdhavaNandhiyar 👋 
 🎓 - I’m currently a Second Year student at the University of Minnesota studying Computer Science
 💻 - I’m currently working on different tutorials for Unity and Godot engines
 🧠 - I’m currently learning Angular and Spring Boot
