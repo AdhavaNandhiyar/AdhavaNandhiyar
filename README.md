@@ -12,6 +12,9 @@
 ⚡ - Fun fact: I have a Gold Billingual Seal in Tamil
 
 # Github Stats
+![](https://github-readme-stats.vercel.app/api?username=AdhavaNandhiyar&show_icons=true&include_all_commits=false&count_private=false&hide=contribs&theme=cobalt)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhavaNandhiyar&layout=compact)
 
 
 <!--
