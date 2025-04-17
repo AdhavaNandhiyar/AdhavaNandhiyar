@@ -11,23 +11,23 @@
 
 ⚡ - Fun fact: I have a Gold Billingual Seal in Tamil
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/adhavanandhiyar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+
+# Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,unity,godot,swift,cs,java,python" />
+  </a>
+</p>
+
 # Github Stats
-![](https://github-readme-stats.vercel.app/api?username=AdhavaNandhiyar&show_icons=true&include_all_commits=false&count_private=false&hide=contribs&theme=cobalt)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhavaNandhiyar&layout=compact)
+<div align="center"> 
+  
+![](https://github-readme-stats.vercel.app/api?username=AdhavaNandhiyar&show_icons=true&include_all_commits=false&count_private=false&hide=contribs&theme=radical)
 
-
-<!--
-**AdhavaNandhiyar/AdhavaNandhiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhavaNandhiyar&layout=compact&theme=radical)
+</div>
