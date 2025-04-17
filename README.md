@@ -5,8 +5,6 @@
 
 🧠 - I’m currently learning Angular and Spring Boot
 
-📆 - In the future I hope to work in Game Development
-
 😄 - Pronouns: He/Him
 
 ⚡ - Fun fact: I have a Gold Billingual Seal in Tamil
